@@ -24,7 +24,6 @@ package com.jspiders.employeesbyJDBC.StoreProcedure;
 		
 		public static void main(String[] args) {
 			
-			System.out.println("rushi");
 			try {
 				fileReader = new FileReader(filePath);
 				properties = new Properties();
