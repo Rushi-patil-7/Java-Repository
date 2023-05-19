@@ -1,0 +1,2 @@
+Hiii i am Rushikesh Masule 
+ create this file from char stream demo
